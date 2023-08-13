@@ -29,15 +29,19 @@ To setup and run this project:
 
 6. Navigate to the local or network URL provided by Streamlit.
 
-## Screenshots
+* KryptoJobs2Go Platform
+Sign and Execute a Payment Transaction
+
+<img width="600" alt="Ash 2 Example" src="https://github.com/kevgeedj/KryptoJobs2Go/assets/128102960/527a7ad9-2169-47f8-9e3c-c7d159249e69">
 
 ### Ganache Account
 
 Here is a screenshot of the Ganache account showing the address, balance, and transaction (TX) count:
 
-
+<img width="600" alt="Ganache Account Screenshot" src="https://github.com/kevgeedj/KryptoJobs2Go/assets/128102960/540eb5a9-5cdb-49f0-af11-1aaf0c8616a5">
 
 ### Ganache Transaction
 
 Here is a screenshot of the transaction from the Ganache transactions tab:
 
+<img width="600" alt="Ganache Transaction Screenshot" src="https://github.com/kevgeedj/KryptoJobs2Go/assets/128102960/cff35e76-a353-4fec-ae4e-a10f9483a9ce">
