@@ -1,5 +1,8 @@
 # KryptoJobs2Go
 
+![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
+
+
 KryptoJobs2Go is an application where you can hire Fintech professionals using Ether as a form of payment. This project integrates Ethereum wallets and transactions into KryptoJobs2Go. The integration is accomplished using Python, the `web3` Python library, and the Streamlit library for a basic front end.
 
 ## Project Structure
@@ -32,7 +35,7 @@ To setup and run this project:
 
 Here is a screenshot of the Ganache account showing the address, balance, and transaction (TX) count:
 
-![Ganache Account](./Images/account_screenshot.png)
+![alt text]([http://url/to/img.png](https://github.com/kevgeedj/KryptoJobs2Go/blob/3618433a7d01b50378f4ad062db927e854db54d6/Images/Ganache%20Account%20Screenshot.png))
 
 ### Ganache Transaction
 
