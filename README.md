@@ -35,10 +35,9 @@ To setup and run this project:
 
 Here is a screenshot of the Ganache account showing the address, balance, and transaction (TX) count:
 
-![alt text]([http://url/to/img.png](https://github.com/kevgeedj/KryptoJobs2Go/blob/3618433a7d01b50378f4ad062db927e854db54d6/Images/Ganache%20Account%20Screenshot.png))
+
 
 ### Ganache Transaction
 
 Here is a screenshot of the transaction from the Ganache transactions tab:
 
-![Ganache Transaction](./Images/transaction_screenshot.png)
